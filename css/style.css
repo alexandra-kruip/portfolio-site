@@ -729,16 +729,6 @@ p {
     position: relative;
     padding-top: 30px !important;
     color: #fff; }
-    #fh5co-events .fh5co-heading .heading:before, #fh5co-events .fh5co-heading .heading::before {
-      height: 64px;
-      width: 49px;
-      position: absolute;
-      content: "";
-      background: url(../images/0402-chef.png) no-repeat;
-      top: 0;
-      left: 50%;
-      margin-top: -50px;
-      margin-left: -24px; }
   #fh5co-events .fh5co-heading .sub-heading {
     color: #a99c92; }
   @media screen and (max-width: 768px) {
