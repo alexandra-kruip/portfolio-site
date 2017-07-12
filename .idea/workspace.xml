@@ -2,8 +2,241 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d289bfae-e5e6-416e-82f0-c5ff4219ee1a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/335da95733e347c957efa8a147f861e365d544c1/blue.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/335da95733e347c957efa8a147f861e365d544c1/bootstrap.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/335da95733e347c957efa8a147f861e365d544c1/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/335da95733e347c957efa8a147f861e365d544c1/style2.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/335da95733e347c957efa8a147f861e365d544c1/style3.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/335da95733e347c957efa8a147f861e365d544c1/style4.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_alerts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_background-variant.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_border-radius.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_buttons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_center-block.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_clearfix.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_forms.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_gradients.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_grid-framework.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_hide-text.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_image.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_labels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_list-group.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_nav-divider.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_nav-vertical-align.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_opacity.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_pagination.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_panels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_progress-bar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_reset-filter.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_reset-text.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_resize.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_responsive-visibility.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_size.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_tab-focus.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_table-row.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_text-emphasis.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_text-overflow.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cbdc44ce5d0811e8541ce4619bdd54f358070fb3/_vendor-prefixes.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_alerts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_badges.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_breadcrumbs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_button-groups.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_buttons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_carousel.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_close.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_code.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_component-animations.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_dropdowns.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_forms.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_glyphicons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_input-groups.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_jumbotron.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_labels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_list-group.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_media.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_modals.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_navbar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_navs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_normalize.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_pager.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_pagination.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_panels.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_popovers.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_print.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_progress-bars.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_responsive-embed.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_responsive-utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_scaffolding.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_tables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_thumbnails.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_tooltip.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_type.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f468950cfce538f85984c452859fc7b7eda3ca8b/_wells.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/blue.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/blue.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-datetimepicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/flexslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/icomoon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/simple-line-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style2.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style3.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style4.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon/Read Me.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon/demo-files/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon/demo-files/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon/fonts/icomoon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon/fonts/icomoon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon/fonts/icomoon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon/fonts/icomoon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon/selection.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/simple-line-icons/Simple-Line-Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/simple-line-icons/Simple-Line-Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/simple-line-icons/Simple-Line-Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/simple-line-icons/Simple-Line-Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/simple-line-icons/Simple-Line-Icons.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0103-served-plate_128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0103-served-plate_64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0203-coffee-love.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0301-pina-colada.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0301-pina-colada_64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0302-steak.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0401-vegan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0402-chef.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/res_img_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/res_img_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/res_img_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/res_img_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/res_img_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/res_img_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/res_img_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/res_img_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slide_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slide_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slide_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/type-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/type-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/type-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/type-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/wood_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap-datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.flexslider-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.stellar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modernizr-2.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/moment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/_bootstrap-compass.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/_bootstrap-mincer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/_bootstrap-sprockets.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/blue.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_badges.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_breadcrumbs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_button-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_close.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_code.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_component-animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_dropdowns.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_glyphicons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_input-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_jumbotron.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_modals.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_navs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_pager.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_popovers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_progress-bars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_responsive-embed.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_responsive-utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_scaffolding.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_thumbnails.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/_wells.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_background-variant.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_border-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_center-block.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_gradients.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_grid-framework.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_hide-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_nav-divider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_nav-vertical-align.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_opacity.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_progress-bar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_reset-filter.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_reset-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_resize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_responsive-visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_size.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_tab-focus.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_table-row.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_text-emphasis.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_text-overflow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/bootstrap/mixins/_vendor-prefixes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/style2.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/style3.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/style4.scss" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,18 +247,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
-              <caret line="310" column="37" lean-forward="false" selection-start-line="310" selection-start-column="37" selection-end-line="310" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,9 +283,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="-44" />
     <option name="y" value="23" />
-    <option name="width" value="1096" />
-    <option name="height" value="873" />
+    <option name="width" value="931" />
+    <option name="height" value="613" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -80,6 +303,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -123,7 +347,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,24 +383,24 @@
       <workItem from="1499376178789" duration="138000" />
       <workItem from="1499376365912" duration="155000" />
       <workItem from="1499707974391" duration="5457000" />
+      <workItem from="1499877724620" duration="159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5750000" />
+    <option name="totallyTimeSpent" value="5909000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1096" height="873" extended-state="0" />
-    <editor active="true" />
+    <frame x="-44" y="23" width="931" height="613" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16982922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40607423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16773367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25143954" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -210,6 +433,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4291">
@@ -222,7 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
