@@ -2,224 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d289bfae-e5e6-416e-82f0-c5ff4219ee1a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ytp-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ytp-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ytp-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/custom-icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/custom-icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/custom-icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/et-line-icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/et-line-icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/et-line-icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/backgrounds/clouds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/backgrounds/clouds@2x.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/js/New folder/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/js/New folder/easing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/js/New folder/jquery-1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/js/jquery-2.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/js/jquery.easing.1.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/assets/js/scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/custom-icons/Read Me.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/custom-icons/custom-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/custom-icons/demo-files/demo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/custom-icons/demo-files/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/custom-icons/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/custom-icons/fonts/custom-icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/custom-icons/fonts/custom-icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/custom-icons/fonts/custom-icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/custom-icons/fonts/custom-icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/custom-icons/selection.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/et-line-icons/Read Me.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/et-line-icons/demo-files/demo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/et-line-icons/demo-files/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/et-line-icons/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/et-line-icons/et-line-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/et-line-icons/fonts/et-line-icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/et-line-icons/fonts/et-line-icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/et-line-icons/fonts/et-line-icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fonts/et-line-icons/selection.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Licensing/README_License.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme.less File/Theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/css/ytp-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/css/ytp-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/css/ytp-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/fonts/custom-icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/fonts/custom-icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/fonts/custom-icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/fonts/et-line-icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/fonts/et-line-icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/fonts/et-line-icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/fonts/et-line-icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/img/backgrounds/clouds.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/img/backgrounds/clouds@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index04.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index06.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index07.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index08.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index09.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index14.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index16.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index17.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/index18.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/js/jquery-2.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Volar Template/js/jquery.easing.1.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/IMPORTANT-README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.2.1/CSS_update1.2.1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.2.1/Read_Me.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.2.1/scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.2.1/scripts.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.2/CSS_update1.2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.2/Read_Me.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3.1/CSS_update1.3.1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3.1/Read_Me.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3.1/js/animated-headlines.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3.2/Read_Me.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3.2/css/animated-hedlines.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3.2/css/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3.2/css/styles.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3.2/index18.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3.2/js/scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3.2/js/scripts.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3/CSS_update1.3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3/Read_Me.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3/css/animated-hedlines.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3/css/nivo-lightbox/lightbox-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3/css/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3/css/styles.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3/css/theme/fluorescent-blue.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3/css/theme/leaf-green.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3/css/theme/yellow.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3/js/animated-headlines.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3/js/scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__UPDATES/UPDATE 1.3/js/scripts.min.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Documentation/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Documentation/assets/js/jquery-2.1.1.min.js" afterPath="$PROJECT_DIR$/js/jquery-2.1.1.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Documentation/assets/js/jquery.easing.1.3.min.js" afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Fonts/et-line-icons/fonts/et-line-icons.svg" afterPath="$PROJECT_DIR$/fonts/et-line-icons.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/apple-touch-icon-114x114.png" afterPath="$PROJECT_DIR$/apple-touch-icon-114x114.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/apple-touch-icon-120x120.png" afterPath="$PROJECT_DIR$/apple-touch-icon-120x120.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/apple-touch-icon-144x144.png" afterPath="$PROJECT_DIR$/apple-touch-icon-144x144.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/apple-touch-icon-152x152.png" afterPath="$PROJECT_DIR$/apple-touch-icon-152x152.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/apple-touch-icon-57x57.png" afterPath="$PROJECT_DIR$/apple-touch-icon-57x57.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/apple-touch-icon-72x72.png" afterPath="$PROJECT_DIR$/apple-touch-icon-72x72.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/blog01.html" afterPath="$PROJECT_DIR$/blog01.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/blog_post.html" afterPath="$PROJECT_DIR$/blog_post.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/blog_post01.html" afterPath="$PROJECT_DIR$/blog_post01.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/YTPlayer.css" afterPath="$PROJECT_DIR$/css/YTPlayer.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/animate.min.css" afterPath="$PROJECT_DIR$/css/animate.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/animated-hedlines.css" afterPath="$PROJECT_DIR$/css/animated-hedlines.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/animsition.min.css" afterPath="$PROJECT_DIR$/css/animsition.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/custom-icons.css" afterPath="$PROJECT_DIR$/css/custom-icons.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/et-line-icons.css" afterPath="$PROJECT_DIR$/css/et-line-icons.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/magic.min.css" afterPath="$PROJECT_DIR$/css/magic.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/nivo-lightbox/close.png" afterPath="$PROJECT_DIR$/css/nivo-lightbox/close.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/nivo-lightbox/close1.png" afterPath="$PROJECT_DIR$/css/nivo-lightbox/close1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/nivo-lightbox/close@2x.png" afterPath="$PROJECT_DIR$/css/nivo-lightbox/close@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/nivo-lightbox/lightbox-theme.css" afterPath="$PROJECT_DIR$/css/nivo-lightbox/lightbox-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/nivo-lightbox/next.png" afterPath="$PROJECT_DIR$/css/nivo-lightbox/next.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/nivo-lightbox/next@2x.png" afterPath="$PROJECT_DIR$/css/nivo-lightbox/next@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/nivo-lightbox/nivo-lightbox.css" afterPath="$PROJECT_DIR$/css/nivo-lightbox/nivo-lightbox.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/nivo-lightbox/prev.png" afterPath="$PROJECT_DIR$/css/nivo-lightbox/prev.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/nivo-lightbox/prev@2x.png" afterPath="$PROJECT_DIR$/css/nivo-lightbox/prev@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/owl.carousel.min.css" afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/styles.min.css" afterPath="$PROJECT_DIR$/css/styles.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/black-white.css" afterPath="$PROJECT_DIR$/css/theme/black-white.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/brown.css" afterPath="$PROJECT_DIR$/css/theme/brown.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/dark-blue.css" afterPath="$PROJECT_DIR$/css/theme/dark-blue.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/fluorescent-blue.css" afterPath="$PROJECT_DIR$/css/theme/fluorescent-blue.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/gold.css" afterPath="$PROJECT_DIR$/css/theme/gold.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/leaf-green.css" afterPath="$PROJECT_DIR$/css/theme/leaf-green.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/light-green.css" afterPath="$PROJECT_DIR$/css/theme/light-green.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/light-purple.css" afterPath="$PROJECT_DIR$/css/theme/light-purple.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/olive.css" afterPath="$PROJECT_DIR$/css/theme/olive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/orange.css" afterPath="$PROJECT_DIR$/css/theme/orange.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/pink.css" afterPath="$PROJECT_DIR$/css/theme/pink.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/purple.css" afterPath="$PROJECT_DIR$/css/theme/purple.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/red.css" afterPath="$PROJECT_DIR$/css/theme/red.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/scuba-blue.css" afterPath="$PROJECT_DIR$/css/theme/scuba-blue.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/css/theme/yellow.css" afterPath="$PROJECT_DIR$/css/theme/yellow.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/favicon-16x16.png" afterPath="$PROJECT_DIR$/favicon-16x16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/favicon-32x32.png" afterPath="$PROJECT_DIR$/favicon-32x32.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/fonts/custom-icons.svg" afterPath="$PROJECT_DIR$/fonts/custom-icons.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/backgrounds/Untitled-7.jpg" afterPath="$PROJECT_DIR$/img/backgrounds/Untitled-7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/backgrounds/facts-background.jpg" afterPath="$PROJECT_DIR$/img/backgrounds/facts-background.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/backgrounds/home-background-01.jpg" afterPath="$PROJECT_DIR$/img/backgrounds/home-background-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/backgrounds/home-background-02.jpg" afterPath="$PROJECT_DIR$/img/backgrounds/home-background-02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/backgrounds/home-background-03.jpg" afterPath="$PROJECT_DIR$/img/backgrounds/home-background-03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/backgrounds/home-background-04.jpg" afterPath="$PROJECT_DIR$/img/backgrounds/home-background-04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/backgrounds/testimonials-background.jpg" afterPath="$PROJECT_DIR$/img/backgrounds/testimonials-background.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/blog/blog-background.JPG" afterPath="$PROJECT_DIR$/img/blog/blog-background.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/blog/blog-post01-bg.jpg" afterPath="$PROJECT_DIR$/img/blog/blog-post01-bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/blog/blog-post02-bg.jpg" afterPath="$PROJECT_DIR$/img/blog/blog-post02-bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/google-map-assets/map-icon-controller.svg" afterPath="$PROJECT_DIR$/img/google-map-assets/map-icon-controller.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/google-map-assets/map-icon-location.png" afterPath="$PROJECT_DIR$/img/google-map-assets/map-icon-location.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/google-map-assets/map-icon-location.svg" afterPath="$PROJECT_DIR$/img/google-map-assets/map-icon-location.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/portfolio/grid-works/video-work-sq.png" afterPath="$PROJECT_DIR$/img/portfolio/grid-works/video-work-sq.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/portfolio/grid-works/video-work.png" afterPath="$PROJECT_DIR$/img/portfolio/grid-works/video-work.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/portfolio/video-work-gapped.png" afterPath="$PROJECT_DIR$/img/portfolio/video-work-gapped.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/portfolio/video-work-real-gapped.png" afterPath="$PROJECT_DIR$/img/portfolio/video-work-real-gapped.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/portfolio/video-work.png" afterPath="$PROJECT_DIR$/img/portfolio/video-work.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/portfolio/work01_lg.jpg" afterPath="$PROJECT_DIR$/img/portfolio/work01_lg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/img/portfolio/work02_lg.jpg" afterPath="$PROJECT_DIR$/img/portfolio/work02_lg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/animateSlider.js" afterPath="$PROJECT_DIR$/js/animateSlider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/animated-headlines.js" afterPath="$PROJECT_DIR$/js/animated-headlines.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/contactForm.js" afterPath="$PROJECT_DIR$/js/contactForm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/fss.min.js" afterPath="$PROJECT_DIR$/js/fss.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/fssinit.js" afterPath="$PROJECT_DIR$/js/fssinit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/fssinit.solid.js" afterPath="$PROJECT_DIR$/js/fssinit.solid.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/isotope.pkgd.min.js" afterPath="$PROJECT_DIR$/js/isotope.pkgd.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/jquery.animsition.min.js" afterPath="$PROJECT_DIR$/js/jquery.animsition.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/jquery.counterup.min.js" afterPath="$PROJECT_DIR$/js/jquery.counterup.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/jquery.mb.YTPlayer.min.js" afterPath="$PROJECT_DIR$/js/jquery.mb.YTPlayer.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/jquery.particleground.min.js" afterPath="$PROJECT_DIR$/js/jquery.particleground.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/jquery.vide.min.js" afterPath="$PROJECT_DIR$/js/jquery.vide.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/modernizr.min.js" afterPath="$PROJECT_DIR$/js/modernizr.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/nivo-lightbox.min.js" afterPath="$PROJECT_DIR$/js/nivo-lightbox.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/particles.min.js" afterPath="$PROJECT_DIR$/js/particles.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/retina.min.js" afterPath="$PROJECT_DIR$/js/retina.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/script.min.js" afterPath="$PROJECT_DIR$/js/script.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/scripts.min.js" afterPath="$PROJECT_DIR$/js/scripts.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/skrollr.min.js" afterPath="$PROJECT_DIR$/js/skrollr.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/smoothscroll.js" afterPath="$PROJECT_DIR$/js/smoothscroll.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/style.changer.js" afterPath="$PROJECT_DIR$/js/style.changer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/waypoints.min.js" afterPath="$PROJECT_DIR$/js/waypoints.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/js/wow.min.js" afterPath="$PROJECT_DIR$/js/wow.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/mailer.php" afterPath="$PROJECT_DIR$/mailer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/mstile-144x144.png" afterPath="$PROJECT_DIR$/mstile-144x144.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/project_page.html" afterPath="$PROJECT_DIR$/project_page.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Volar Template/project_page01.html" afterPath="$PROJECT_DIR$/project_page01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index05.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index05.html" afterPath="$PROJECT_DIR$/index05.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -231,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index05.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index05.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+              <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -414,25 +198,24 @@
       <workItem from="1499376178789" duration="138000" />
       <workItem from="1499376365912" duration="155000" />
       <workItem from="1499707974391" duration="5457000" />
-      <workItem from="1499877724620" duration="1053000" />
+      <workItem from="1499877724620" duration="1235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6803000" />
+    <option name="totallyTimeSpent" value="6985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="23" width="1303" height="847" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2188739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2188739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18543047" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18543047" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -611,10 +394,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index05.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
           <folding />
         </state>
       </provider>
