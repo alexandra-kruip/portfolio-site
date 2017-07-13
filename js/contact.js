@@ -17,5 +17,5 @@ function phone(){
     var p = '714';
     p += '-592';
     p += '-4742';
-    $('.phone').text('Phone: ' + p);
+    $('.phone').text(p);
 }

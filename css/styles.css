@@ -3350,7 +3350,7 @@ body {
   padding-bottom: 44px;
 }
 .client-testimonials-bg {
-  background-image: url(../img/backgrounds/testimonials-background.jpg);
+  background-image: url(../img/backgrounds/testimonials-photo.jpg);
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3656,6 +3656,10 @@ body {
 /*=======================================
 = Contact Section                       =
 =======================================*/
+a.email {
+    border-bottom: none;
+    color: black;
+}
 .contact-item {
   text-align: center;
 }
@@ -6966,8 +6970,12 @@ min-width: 768px
   .services-section-item {
     margin-bottom: 40px;
   }
+    svg {
+        height: 50px;
+    }
   .no-touch.cssanimations .services-section-item {
-    margin-bottom: 0;
+      margin-bottom: 0;
+      height: 35vh;
   }
   .no-touch.cssanimations .services-section-item-icon {
     opacity: 1;
