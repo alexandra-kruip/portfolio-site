@@ -987,9 +987,10 @@ hr {
   margin-top: 0;
   font-size: 36px;
   line-height: 1.2;
-  letter-spacing: .1em;
-  margin-right: -0.1em;
-  font-weight: 100;
+    letter-spacing: .3em;
+    margin-right: -0.1em;
+    font-weight: 100;
+    text-transform: uppercase;
 }
 .hs-text-10 span:not(.cd-words-wrapper) {
   font-weight: 900;
@@ -2725,6 +2726,9 @@ body {
 =============================*/
 .about-section-img {
   margin: 10px auto;
+}
+img#alexandlucy {
+    width: 100%;
 }
 .skillbars {
   margin-top: 11px;
