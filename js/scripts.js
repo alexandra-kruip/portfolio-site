@@ -863,7 +863,7 @@
             $rippleAlone = $(".ripple-alone"),
             init_ripple = function() {
                 $rippleGroup.on("click", function(e) {
-                    parent = $(this).parents(".ripple-group-parent");
+                    var parent = $(this).parents(".ripple-group-parent");
                     //create .ink element if it doesn't exist
                     if (parent.find(".ink").length === 0) {
                         parent.append("<span class='ink'></span>");

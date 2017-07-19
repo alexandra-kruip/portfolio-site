@@ -2877,6 +2877,9 @@ div.dreamjobquote footer {
   margin: 0 auto;
   font-size: 44px;
 }
+.services-section-item-icon img {
+    width: 44px;
+}
 .services-section-item-text {
   font-size: 14px;
 }
@@ -7221,32 +7224,51 @@ Blended
 .services-section {
   padding-bottom: 0;
 }
+
+.services-section-item-icon img {
+    width: 44px;
+}
 @media (min-width: 768px) {
   .services-section {
     padding-bottom: 0px;
   }
+    .services-section-item-icon img {
+        width: 44px;
+    }
 }
 @media (min-width: 992px) {
   .services-section {
     padding-bottom: 10px;
   }
+    .services-section-item-icon img {
+        width: 44px;
+    }
 }
 @media (min-width: 1200px) {
   .services-section {
     padding-bottom: 50px;
   }
+    .services-section-item-icon img {
+        width: 44px;
+    }
 }
 @media (min-width: 992px) {
   .client-logos .container {
     padding-right: 55px;
     padding-left: 45px;
   }
+    .services-section-item-icon img {
+        width: 44px;
+    }
 }
 @media (min-width: 1200px) {
   .client-logos .container {
     padding-right: 85px;
     padding-left: 75px;
   }
+    .services-section-item-icon img {
+        width: 44px;
+    }
 }
 /*
   ========================================
