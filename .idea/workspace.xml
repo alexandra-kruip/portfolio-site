@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a67f32fc-936e-4762-a826-01aa0b9fb91d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/firebase.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meister.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/postman.svg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ALEX KRUIP | RESUME" afterPath="$PROJECT_DIR$/AlexKruip|Resume" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -312,12 +309,12 @@
       <workItem from="1499899660692" duration="17996000" />
       <workItem from="1500059429252" duration="599000" />
       <workItem from="1500060032004" duration="8033000" />
-      <workItem from="1500485489659" duration="9013000" />
+      <workItem from="1500485489659" duration="9616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35652000" />
+    <option name="totallyTimeSpent" value="36255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="23" width="1291" height="871" extended-state="0" />
