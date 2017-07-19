@@ -6985,8 +6985,8 @@ min-width: 768px
   .services-section-item {
     margin-bottom: 40px;
   }
-    svg {
-        height: 50px;
+    .services-section-item-icon img {
+        width: 44px;
     }
   .no-touch.cssanimations .services-section-item {
       margin-bottom: 0;
