@@ -17,7 +17,7 @@
 */
 /*
   ========================================
-  Genaral styles
+  General styles
   ========================================
 */
 /* 
@@ -2848,6 +2848,17 @@ img#alexandlucy {
 }
 .fact-text p {
   margin-bottom: 0;
+}
+div.dreamjobquote {
+    text-transform: none;
+    font-size: 2em;
+    color: white;
+    background-color: #00957f;
+    width: 100vw;
+}
+
+div.dreamjobquote footer {
+    color: black;
 }
 /*===================================
 = Services Section                  =
