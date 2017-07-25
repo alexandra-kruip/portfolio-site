@@ -7220,23 +7220,47 @@ Blended
     margin: 20px 0;
   }
 }
-/*.services-section {*/
-  /*padding-bottom: 0px;*/
-/*}*/
 
 .services-section-item-icon img {
     width: 8vw;
 }
-@media (min-width: 768px) {
+@media (min-width: 320px) and (max-width: 767px) {
+    .services-section-item-icon img {
+        width: 25vw;
+    }
+    .services-section-item p {
+        display: none;
+    }
+    .services-section-item {
+        width: 40%;
+        margin: 5vw;
+    }
+    .services-item-title.amazon {
+        margin-bottom: 0;
+        font-size: 1em;
+    }
+    div.firebase {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    img.redux {
+        height: 14vh;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1366px) {
   .services-section {
     padding-bottom: 0px;
   }
     .services-section-item-icon {
         font-size: 6vw;
     }
+    img.redux {
+        height: 6vw;
+    }
     .services-item-title.amazon {
         margin-bottom: 0;
-        font-size: 1em;
+        font-size: 0.8em;
     }
     .services-item-title {
         font-size: 1em;
@@ -7247,6 +7271,13 @@ Blended
     div.firebase {
         padding-left: 0;
         padding-right: 0;
+    }
+    .services-section-item.col-sm-2.margin-bottom-xs-40.wow.animated p {
+        font-size: 0.9em;
+        line-height: 1.2em;
+    }
+    .services-section-item p {
+        display: none;
     }
 
 }
@@ -7277,9 +7308,7 @@ Blended
     .services-section-item-icon img {
         width: 6vw;
     }
-    .services-section-item p {
-        font-size: 0.8em;
-    }
+
 }
 @media (min-width: 1200px) {
   .client-logos .container {

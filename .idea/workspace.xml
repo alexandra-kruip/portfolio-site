@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a67f32fc-936e-4762-a826-01aa0b9fb91d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/redux.png" afterPath="$PROJECT_DIR$/img/redux.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="475" column="122" lean-forward="false" selection-start-line="475" selection-start-column="122" selection-end-line="475" selection-end-column="122" />
+            <state relative-caret-position="185">
+              <caret line="405" column="54" lean-forward="false" selection-start-line="405" selection-start-column="54" selection-end-line="405" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -32,8 +31,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="7267" column="37" lean-forward="true" selection-start-line="7267" selection-start-column="37" selection-end-line="7267" selection-end-column="37" />
+            <state relative-caret-position="354">
+              <caret line="7250" column="46" lean-forward="false" selection-start-line="7250" selection-start-column="46" selection-end-line="7250" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -50,14 +49,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>maps</find>
       <find>map</find>
       <find>key</find>
       <find>google</find>
       <find>svg</find>
       <find>meister</find>
       <find>skill</find>
-      <find>redux</find>
       <find>java</find>
       <find>irvine</find>
       <find>orange</find>
@@ -73,13 +70,15 @@
       <find>about</find>
       <find>skills</find>
       <find>amazon</find>
-      <find>service</find>
       <find>jquery</find>
       <find>servi</find>
       <find>firebase</find>
       <find>2000</find>
       <find>media</find>
       <find>services</find>
+      <find>service</find>
+      <find>375</find>
+      <find>redux</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -273,12 +272,12 @@
       <workItem from="1500506497933" duration="887000" />
       <workItem from="1500510929993" duration="526000" />
       <workItem from="1500915543816" duration="1240000" />
-      <workItem from="1500930711364" duration="7339000" />
+      <workItem from="1500930711364" duration="9683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47972000" />
+    <option name="totallyTimeSpent" value="50316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="23" width="1291" height="871" extended-state="0" />
@@ -566,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="475" column="122" lean-forward="false" selection-start-line="475" selection-start-column="122" selection-end-line="475" selection-end-column="122" />
+        <state relative-caret-position="185">
+          <caret line="405" column="54" lean-forward="false" selection-start-line="405" selection-start-column="54" selection-end-line="405" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -576,8 +575,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="7267" column="37" lean-forward="true" selection-start-line="7267" selection-start-column="37" selection-end-line="7267" selection-end-column="37" />
+        <state relative-caret-position="354">
+          <caret line="7250" column="46" lean-forward="false" selection-start-line="7250" selection-start-column="46" selection-end-line="7250" selection-end-column="46" />
           <folding />
         </state>
       </provider>
