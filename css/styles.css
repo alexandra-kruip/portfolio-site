@@ -2874,10 +2874,10 @@ div.dreamjobquote footer {
 }
 .services-section-item-icon {
   margin: 0 auto;
-  font-size: 44px;
+  font-size: 14vh;
 }
 .services-section-item-icon img {
-    width: 44px;
+    width: 14vh;
 }
 .services-section-item-text {
   font-size: 14px;
@@ -6988,11 +6988,11 @@ min-width: 768px
     margin-bottom: 40px;
   }
     .services-section-item-icon img {
-        width: 44px;
+        width: 14vh;
     }
   .no-touch.cssanimations .services-section-item {
       margin-bottom: 0;
-      height: 35vh;
+      height: 20vw;
   }
   .no-touch.cssanimations .services-section-item-icon {
     opacity: 1;
@@ -7220,35 +7220,53 @@ Blended
     margin: 20px 0;
   }
 }
-.services-section {
-  padding-bottom: 0;
-}
+/*.services-section {*/
+  /*padding-bottom: 0px;*/
+/*}*/
 
 .services-section-item-icon img {
-    width: 44px;
+    width: 8vw;
 }
 @media (min-width: 768px) {
   .services-section {
     padding-bottom: 0px;
   }
-    .services-section-item-icon img {
-        width: 44px;
+    .services-section-item-icon {
+        font-size: 6vw;
     }
+    .services-item-title.amazon {
+        margin-bottom: 0;
+        font-size: 1em;
+    }
+    .services-item-title {
+        font-size: 1em;
+    }
+    .services-section-item-icon img {
+        width: 6vw;
+    }
+    div.firebase {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
 }
 @media (min-width: 992px) {
   .services-section {
     padding-bottom: 10px;
   }
+    .services-section-item-icon {
+        font-size: 6vw;
+    }
     .services-section-item-icon img {
-        width: 44px;
+        width: 3vw;
     }
 }
 @media (min-width: 1200px) {
   .services-section {
-    padding-bottom: 50px;
+    padding-bottom: 40px;
   }
     .services-section-item-icon img {
-        width: 44px;
+        width: 14vw;
     }
 }
 @media (min-width: 992px) {
@@ -7257,7 +7275,10 @@ Blended
     padding-left: 45px;
   }
     .services-section-item-icon img {
-        width: 44px;
+        width: 6vw;
+    }
+    .services-section-item p {
+        font-size: 0.8em;
     }
 }
 @media (min-width: 1200px) {
@@ -7266,7 +7287,7 @@ Blended
     padding-left: 75px;
   }
     .services-section-item-icon img {
-        width: 44px;
+        width: 6vw;
     }
 }
 /*

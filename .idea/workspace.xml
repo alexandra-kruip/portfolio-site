@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a67f32fc-936e-4762-a826-01aa0b9fb91d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/redux.png" afterPath="$PROJECT_DIR$/img/redux.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5103">
-              <caret line="620" column="69" lean-forward="false" selection-start-line="620" selection-start-column="69" selection-end-line="620" selection-end-column="69" />
+            <state relative-caret-position="155">
+              <caret line="475" column="122" lean-forward="false" selection-start-line="475" selection-start-column="122" selection-end-line="475" selection-end-column="122" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -30,8 +32,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="2751" column="1" lean-forward="true" selection-start-line="2751" selection-start-column="1" selection-end-line="2751" selection-end-column="1" />
+            <state relative-caret-position="245">
+              <caret line="7267" column="37" lean-forward="true" selection-start-line="7267" selection-start-column="37" selection-end-line="7267" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -48,18 +50,10 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>skillbars</find>
-      <find>video</find>
-      <find>sgt</find>
-      <find>15</find>
-      <find>dream</find>
-      <find>quote</find>
       <find>maps</find>
       <find>map</find>
       <find>key</find>
       <find>google</find>
-      <find>skills</find>
-      <find>amazon</find>
       <find>svg</find>
       <find>meister</find>
       <find>skill</find>
@@ -74,10 +68,18 @@
       <find>geo</find>
       <find>.services-section-item</find>
       <find>768</find>
-      <find>services</find>
       <find>home</find>
       <find>application</find>
       <find>about</find>
+      <find>skills</find>
+      <find>amazon</find>
+      <find>service</find>
+      <find>jquery</find>
+      <find>servi</find>
+      <find>firebase</find>
+      <find>2000</find>
+      <find>media</find>
+      <find>services</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,7 +107,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
+    <option name="x" value="32" />
     <option name="y" value="23" />
     <option name="width" value="1291" />
     <option name="height" value="871" />
@@ -125,6 +127,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -147,32 +151,12 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theDamnThing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theDamnThing" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles.css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,14 +164,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img/portfolio" />
       <recent name="$PROJECT_DIR$/img/backgrounds" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -287,18 +271,20 @@
       <workItem from="1500060032004" duration="8033000" />
       <workItem from="1500485489659" duration="11341000" />
       <workItem from="1500506497933" duration="887000" />
-      <workItem from="1500510929993" duration="404000" />
+      <workItem from="1500510929993" duration="526000" />
+      <workItem from="1500915543816" duration="1240000" />
+      <workItem from="1500930711364" duration="7339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39271000" />
+    <option name="totallyTimeSpent" value="47972000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="23" width="1291" height="871" extended-state="0" />
+    <frame x="32" y="23" width="1291" height="871" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2113691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21777421" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -512,22 +498,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/redux.svg" />
-    <entry file="file://$PROJECT_DIR$/img/redux.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/postman.svg" />
-    <entry file="file://$PROJECT_DIR$/img/meistertask.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/postman.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/meister.svg" />
     <entry file="file://$PROJECT_DIR$/apple-touch-icon-152x152.png">
       <provider selected="true" editor-type-id="images">
@@ -535,11 +506,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apple-touch-icon-120x120.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/firebase.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -578,10 +544,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/postman.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/meistertask.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/firebase.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/redux.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5103">
-          <caret line="620" column="69" lean-forward="false" selection-start-line="620" selection-start-column="69" selection-end-line="620" selection-end-column="69" />
+        <state relative-caret-position="155">
+          <caret line="475" column="122" lean-forward="false" selection-start-line="475" selection-start-column="122" selection-end-line="475" selection-end-column="122" />
           <folding>
             <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -590,8 +576,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="2751" column="1" lean-forward="true" selection-start-line="2751" selection-start-column="1" selection-end-line="2751" selection-end-column="1" />
+        <state relative-caret-position="245">
+          <caret line="7267" column="37" lean-forward="true" selection-start-line="7267" selection-start-column="37" selection-end-line="7267" selection-end-column="37" />
           <folding />
         </state>
       </provider>
