@@ -101,7 +101,7 @@ $(function () {
                 $(formMessages).removeClass('error');
                 $(formMessages).addClass('success');
                 setTimeout(function () {
-                    $(formMessages).addClass("fade-outy");
+                    $(formMessages).addClass("fade-out");
                 }, 5000);
 
                 // Set the message text.
@@ -116,7 +116,7 @@ $(function () {
                 $(formMessages).removeClass('success');
                 $(formMessages).addClass('error');
                 setTimeout(function () {
-                    $(formMessages).addClass("fade-outy");
+                    $(formMessages).addClass("fade-out");
                 }, 5000);
 
                 // Set the message text.

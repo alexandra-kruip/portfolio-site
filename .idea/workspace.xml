@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a67f32fc-936e-4762-a826-01aa0b9fb91d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Alexandra_Kruip_Resume.pdf" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Alex_Kruip_Resume.pdf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/contactForm.js" afterPath="$PROJECT_DIR$/js/contactForm.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +22,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="405" column="54" lean-forward="false" selection-start-line="405" selection-start-column="54" selection-end-line="405" selection-end-column="54" />
+            <state relative-caret-position="259">
+              <caret line="1347" column="90" lean-forward="false" selection-start-line="1347" selection-start-column="90" selection-end-line="1347" selection-end-column="90" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -28,11 +31,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="contactForm.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/contactForm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="7250" column="46" lean-forward="false" selection-start-line="7250" selection-start-column="46" selection-end-line="7250" selection-end-column="46" />
+            <state relative-caret-position="334">
+              <caret line="3865" column="9" lean-forward="true" selection-start-line="3865" selection-start-column="9" selection-end-line="3865" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -49,14 +62,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>map</find>
-      <find>key</find>
-      <find>google</find>
-      <find>svg</find>
-      <find>meister</find>
-      <find>skill</find>
-      <find>java</find>
-      <find>irvine</find>
       <find>orange</find>
       <find>portfolio</find>
       <find>photoshop</find>
@@ -79,6 +84,14 @@
       <find>service</find>
       <find>375</find>
       <find>redux</find>
+      <find>form</find>
+      <find>fade-out</find>
+      <find>form-</find>
+      <find>form-mess</find>
+      <find>contactFo</find>
+      <find>testimonials</find>
+      <find>contact</find>
+      <find>form</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,10 +102,10 @@
       <list>
         <option value="$PROJECT_DIR$/mailer.php" />
         <option value="$PROJECT_DIR$/js/contact.js" />
-        <option value="$PROJECT_DIR$/js/contactForm.js" />
         <option value="$PROJECT_DIR$/meister.svg" />
         <option value="$PROJECT_DIR$/postman.svg" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
+        <option value="$PROJECT_DIR$/js/contactForm.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
@@ -106,7 +119,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="32" />
+    <option name="x" value="24" />
     <option name="y" value="23" />
     <option name="width" value="1291" />
     <option name="height" value="871" />
@@ -137,6 +150,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="theDamnThing" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theDamnThing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theDamnThing" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -272,15 +299,15 @@
       <workItem from="1500506497933" duration="887000" />
       <workItem from="1500510929993" duration="526000" />
       <workItem from="1500915543816" duration="1240000" />
-      <workItem from="1500930711364" duration="9683000" />
+      <workItem from="1500930711364" duration="14709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50316000" />
+    <option name="totallyTimeSpent" value="55342000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="32" y="23" width="1291" height="871" extended-state="0" />
+    <frame x="24" y="23" width="1291" height="871" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21777421" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -536,13 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/contactForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="97" column="14" lean-forward="false" selection-start-line="97" selection-start-column="14" selection-end-line="97" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/postman.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -563,10 +583,18 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/contactForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="405" column="54" lean-forward="false" selection-start-line="405" selection-start-column="54" selection-end-line="405" selection-end-column="54" />
+        <state relative-caret-position="259">
+          <caret line="1347" column="90" lean-forward="false" selection-start-line="1347" selection-start-column="90" selection-end-line="1347" selection-end-column="90" />
           <folding>
             <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -575,8 +603,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="7250" column="46" lean-forward="false" selection-start-line="7250" selection-start-column="46" selection-end-line="7250" selection-end-column="46" />
+        <state relative-caret-position="334">
+          <caret line="3865" column="9" lean-forward="true" selection-start-line="3865" selection-start-column="9" selection-end-line="3865" selection-end-column="9" />
           <folding />
         </state>
       </provider>
