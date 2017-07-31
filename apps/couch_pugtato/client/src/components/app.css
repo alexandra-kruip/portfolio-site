@@ -1,0 +1,111 @@
+body {
+    background-color: #6F8D99;
+}
+
+h1, p, label {
+    color: white;
+}
+
+.app {
+    text-align: center;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    color: black;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+
+.y-data {
+    padding: 5px;
+}
+
+.glyphicon {
+     margin-right: 5px;
+}
+.panel-body{
+    min-height: 600px;
+    background-color: #d6e9f6;
+}
+.panel-body p{
+    color: black;
+}
+.panel-body img{
+    margin:auto;
+    max-height: 300px;
+}
+/* --- SPLASH CONTENT ---  */
+.title {
+    text-align: center;
+    margin-bottom: 5%;
+}
+.p-title {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 5%;
+}
+
+.splash-form {
+    font-family: 'Playfair Display', serif;
+    margin: 5% auto;
+}
+
+.splash-items > div {
+    margin: 10px auto;
+}
+
+.panel-title{
+    font-size: 20px;
+}
+
+.prev-button{
+    float: left;
+}
+
+.next-button{
+    float: right;
+}
+
+.container.splash-content {
+    border-top: 2px solid white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer {
+    border-top: 2px solid white;
+    padding-top: 20px;
+}
+
+.footer svg{
+    width: 40px;
+}
+
+.result {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+/* --- MEDIA QUERIES ---  */
+@media (max-width: 400px) {
+    .pugtato {
+        width: 35rem;
+        margin: 0 auto;
+        /* margin: 50px auto; */
+    }
+    .splash-form {
+        width: 100%;
+    }
+}
+
+.error {
+    max-height: 300px;
+    margin: 0 auto;
+    padding: 0 10px;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "couch_pugtato",
+  "version": "1.0.0",
+  "description": "## Purpose of Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandra-kruip/couch_pugtato.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandra-kruip/couch_pugtato/issues"
+  },
+  "homepage": "https://github.com/alexandra-kruip/couch_pugtato#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
