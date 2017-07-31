@@ -24,3 +24,14 @@ if (file_exists($local_settings)) {
   include $local_settings;
 }
 $settings['install_profile'] = 'standard';
+$databases['default']['default'] = array (
+  'database' => 'LeagueOfBoatwrights',
+  'username' => 'root',
+  'password' => 'root',
+  'prefix' => '',
+  'host' => 'localhost',
+  'port' => '3306',
+  'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
+  'driver' => 'mysql',
+);
+$settings['hash_salt'] = 's6ZdEtDXkvU1zkXhgeYGWiQnZLAUA83SA9X1cvWy_ZU6512AFfrBsCHZ0GmNWBX3_8R-6KIGEA';
