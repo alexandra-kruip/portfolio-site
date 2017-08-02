@@ -1,34 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/apps/league-of-boatwrights" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a67f32fc-936e-4762-a826-01aa0b9fb91d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/dist/imgs/7fecb94ee2eaffc2bd85a43d701b422a.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/imgs/pizzaloader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/src/reducers/home_reducer.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/couch_pugtato/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/couch_pugtato/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/api_keys.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/dev_server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/videoDetail.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/webpack.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/webpack.deploy.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/couch_pugtato/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/couch_pugtato/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/couch_pugtato/package.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/dist/bundle.js" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/dist/bundle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/app.css" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/app.js" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/footer.js" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/footer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/grid.js" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/grid.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/media_panel.js" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/media_panel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/splash.js" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/splash.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/videolist.js" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/videolist.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/yelp_panel.js" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/src/components/yelp_panel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/src/index.js" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/couch_pugtato/client/src/reducers/index.js" afterPath="$PROJECT_DIR$/apps/couch_pugtato/client/src/reducers/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="565" column="91" lean-forward="false" selection-start-line="565" selection-start-column="91" selection-end-line="565" selection-end-column="91" />
+            <state relative-caret-position="236">
+              <caret line="553" column="93" lean-forward="false" selection-start-line="553" selection-start-column="93" selection-end-line="553" selection-end-column="93" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -110,6 +87,7 @@
         <option value="$PROJECT_DIR$/js/contactForm.js" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/apps/couch_pugtato/api_keys.js" />
+        <option value="$PROJECT_DIR$/apps/couch_pugtato/index.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -171,10 +149,6 @@
               <option name="myItemId" value="apps" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SGT" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -187,6 +161,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="couch_pugtato" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -207,6 +185,36 @@
               <option name="myItemId" value="couch_pugtato" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theDamnThing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theDamnThing" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="couch_pugtato" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -216,6 +224,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -333,15 +342,16 @@
       <workItem from="1501530747059" duration="945000" />
       <workItem from="1501531726289" duration="3538000" />
       <workItem from="1501617869411" duration="187000" />
-      <workItem from="1501706156617" duration="590000" />
+      <workItem from="1501706156617" duration="2069000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63464000" />
+    <option name="totallyTimeSpent" value="64943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="153" y="23" width="1220" height="872" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24957556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -350,7 +360,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21538462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21538462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -373,18 +383,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/backgrounds/testimonials-background.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/contact.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/portfolio/league-of-boatwrights.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -606,10 +604,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/apps/couch_pugtato/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/couch_pugtato/client/dist/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17415">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="565" column="91" lean-forward="false" selection-start-line="565" selection-start-column="91" selection-end-line="565" selection-end-column="91" />
+        <state relative-caret-position="236">
+          <caret line="553" column="93" lean-forward="false" selection-start-line="553" selection-start-column="93" selection-end-line="553" selection-end-column="93" />
           <folding>
             <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
