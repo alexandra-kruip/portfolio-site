@@ -56,7 +56,7 @@ class MediaPanel extends Component {
                 <h2>{title}</h2>
                 <img src={'https://image.tmdb.org/t/p/w300_and_h450_bestv2' + poster_path}/>
                 <h4>Rating: <i className="glyphicon glyphicon-star"/>{vote_average}</h4>
-                <btn className="btn btn-primary" onClick={() => this.props.youtubeToggleTrue()}><i className="glyphicon glyphicon-play"/>  Show Trailers</btn>
+                <btn className="btn btn-primary" style={{marginBottom: '10px'}} onClick={() => this.props.youtubeToggleTrue()}><i className="glyphicon glyphicon-play"/>  Show Trailers</btn>
                 <p>Genres: {`${genre_decoder(genre_ids)}`}</p>
                 <p>Release Date: {release_date}</p>
                 <p>{overview}</p>

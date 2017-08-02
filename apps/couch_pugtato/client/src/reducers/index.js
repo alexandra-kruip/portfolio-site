@@ -4,7 +4,6 @@ import mediaReducer from './media_reducer';
 import videos from './reducer_yt';
 import yelpReducer from './yelp_reducer';
 
-
 const rootReducer = combineReducers({
     form: formReducer,
     media: mediaReducer,

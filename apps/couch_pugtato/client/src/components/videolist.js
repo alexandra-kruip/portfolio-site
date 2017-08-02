@@ -27,7 +27,7 @@ class YoutubeList extends Component {
     };
 
     modalStyle = {
-        maxHeight: '60vh',
+        maxHeight: '63vh',
         overflowY: 'auto'
     };
 

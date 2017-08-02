@@ -22,7 +22,7 @@ ReactDOM.render(
         <Router>
             <div>
                 <Route exact path='/' component={Splash} />
-                <Route path='/home' component={App} />
+                <Route path='/home/:genre/:address' component={App} />
              </div>
         </Router>
     </Provider>,

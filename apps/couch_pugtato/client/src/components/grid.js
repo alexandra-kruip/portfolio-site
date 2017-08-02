@@ -2,29 +2,32 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { Grid, Row, Col } from 'react-bootstrap';
+import { fetchMedia, yelpData } from '../actions';
 import MoviePanel from './media_panel';
 import YelpPanel from './yelp_panel';
-import Error from './imgs/400.jpg'
 
 class grid extends Component {
+    componentDidMount() {
+        if(this.props.media === undefined && this.props.yelp === undefined) {
+            const split = this.props.match.url.split('/');
+            const url = {
+                genre: split[2],
+                address: split[3]
+            }
+            this.props.fetchMedia(url);
+            this.props.yelpData(url);
+        }
+    }
+    
     render(){
         if(this.props.media === undefined && this.props.yelp === undefined) {
             return(
-                <div className='text-center'>
-                    <div className='row text-center'>
-                        <div className='col-sm-12'>
-                            <img className='error img-responsive' src={Error}/>
-                        </div>
-                    </div>
-                    <div className='row'>
-                        <div className='col-sm-12'>
-                            <h3>Please go back to Pugtato and enter a valid address and/or movie genre</h3>
-                            <Link className='btn btn-primary' to='/'>Back to Pugtato!</Link>
-                        </div>
-                    </div>
-                </div>
-            )
-        }
+                <div className="loader-div">
+                    <div className="loader"></div>  
+                </div>  
+            );
+        };
+
         return (
             <Grid className="result">
                 <Row className="show-grid">
@@ -35,7 +38,7 @@ class grid extends Component {
                         <YelpPanel />
                     </Col>
                     <Col sm={12} className='text-center'>
-                        <Link to='/' className='btn btn-primary'>Go back to Pugtato!</Link>
+                        <Link to='/' className='btn btn-warning'>Make a New Search!</Link>
                     </Col>
                 </Row>
             </Grid>
@@ -46,8 +49,8 @@ class grid extends Component {
 function mapStateToProps(state) {
     return{
         media: state.media.list,
-        yelp: state.yelp.data
+        yelp: state.yelp.data,
     }
 }
 
-export default connect(mapStateToProps)(grid);
+export default connect(mapStateToProps, { fetchMedia, yelpData })(grid);

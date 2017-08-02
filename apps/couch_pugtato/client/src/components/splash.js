@@ -20,7 +20,7 @@ class Splash extends Component {
         });
         this.props.fetchMedia(value);
         this.props.yelpData(value).then(() => {
-            this.props.history.push('/home');
+            this.props.history.push(`/home/${value.genre}/${value.address}`);
         })
     }
     

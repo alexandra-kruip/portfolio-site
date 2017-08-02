@@ -47,7 +47,7 @@ class Yelp extends Component {
         return(
             <Panel header={this.prevNextButton()} bsStyle="danger" className="text-center">
                 <a href={url} target="_blank"><h2>{name}</h2></a>
-                <img src={image_url} className="img-responsive" alt="food_location"/>
+                <img src={image_url} className="img-responsive" alt="food_location" style={{marginBottom: '10px'}}/>
                 <div className="y-data">
                     <span className="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
                     {`${address1} ${city}, ${state}, ${zip_code}`}
