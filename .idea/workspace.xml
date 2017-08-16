@@ -21,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="540" column="94" lean-forward="false" selection-start-line="540" selection-start-column="94" selection-end-line="540" selection-end-column="94" />
+            <state relative-caret-position="302">
+              <caret line="553" column="78" lean-forward="true" selection-start-line="553" selection-start-column="78" selection-end-line="553" selection-end-column="78" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -132,20 +132,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="theDamnThing" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theDamnThing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theDamnThing" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -285,12 +271,12 @@
       <workItem from="1502133547298" duration="164000" />
       <workItem from="1502298649541" duration="244000" />
       <workItem from="1502468450021" duration="125000" />
-      <workItem from="1502909961686" duration="371000" />
+      <workItem from="1502909961686" duration="1352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66099000" />
+    <option name="totallyTimeSpent" value="67080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="23" width="1220" height="872" extended-state="0" />
@@ -562,8 +548,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="540" column="94" lean-forward="false" selection-start-line="540" selection-start-column="94" selection-end-line="540" selection-end-column="94" />
+        <state relative-caret-position="302">
+          <caret line="553" column="78" lean-forward="true" selection-start-line="553" selection-start-column="78" selection-end-line="553" selection-end-column="78" />
           <folding>
             <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
