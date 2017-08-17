@@ -3673,7 +3673,11 @@ div.dreamjobquote footer {
 /*=======================================
 = Contact Section                       =
 =======================================*/
-a.email {
+.contact-section {
+    padding: 0;
+    padding-top: 20px;
+}
+.contact-item a {
     border-bottom: none;
     color: black;
 }
@@ -3976,10 +3980,9 @@ a.email {
   padding-top: 14px;
 }
 .footer-social {
-  padding: 51px 0;
   margin: 0 auto;
   text-align: center;
-  padding-bottom: 100px;
+  padding-bottom: 80px;
 }
 .footer-social a {
   margin: 0 10px;
@@ -6934,6 +6937,9 @@ min-width: 768px
     -webkit-transition: opacity 0.25s, -webkit-transform 0.25s;
             transition: opacity 0.25s, transform 0.25s;
   }
+    .portfolio-item-detail p {
+        text-transform: none;
+    }
   .portfolio-item-detail a {
     padding: 0 10px;
     font-size: 28px;
