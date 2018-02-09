@@ -53,6 +53,7 @@ $(function () {
             })
             .fail(function (data) {
                 // Make sure that the formMessages div has the 'error' class.
+                
                 $(formMessages).removeClass('success').addClass('error').fadeIn().delay(6000).fadeOut();
                 // Set the message text.
                 if (data.responseText !== '') {
